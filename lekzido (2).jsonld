@@ -79,7 +79,7 @@
           "@value": "Social and Political news"
         },
         "uri": {
-          "@value": "x.com"
+          "@value": "http://www.x.com"
         }
       },
       {
@@ -88,7 +88,7 @@
           "@value": "Health and Science"
         },
         "uri": {
-          "@value": "Facebook.com"
+          "@value": "http://www.facebook.com"
         }
       }
     ]

@@ -67,11 +67,30 @@
       "@value": ""
     },
     "paymentAddress": {
-      "@value": "addr1q879tcguffuxd6s67gu06uupw3ghshmnfeawch30jg59g0fm0ekmrt6ctpm5hyuur69z35ym6dnwu27wkyhvlqc96ulscsxxzw"
+      "@value": ""
     },
     "qualifications": {
       "@value": ""
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Social and Political news"
+        },
+        "uri": {
+          "@value": "http://www.x.com"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Health and Science"
+        },
+        "uri": {
+          "@value": "http://www.facebook.com"
+        }
+      }
+    ]
   }
 }
